@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack and DevOps work
 - 🌱 I’m currently learning DevOps stuf!
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me [Website](https://ambujbpl.github.io) or ambujdubey@outlook.in
+- 📫 How to reach me [Website](https://ambujbpl.github.io) || ambujdubey@outlook.in || [LinkedIn](linkedin.com/in/ambuj-dubey-2923b456)
 <!---
 - [E2E Testing Link](https://docs.google.com/document/d/1RDn1Buh1QNahugTx_NfXMBmvJJlaNCzUiHl-2yWuunk/edit#) 
 - [JavaScript Version List](https://www.odinschool.com/blog/programming/java-script-versions)
